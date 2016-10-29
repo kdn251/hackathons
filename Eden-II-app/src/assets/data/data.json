@@ -1,0 +1,180 @@
+{
+
+  "schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "time": "8:00 am",
+          "sessions": [
+            {
+              "name": "Apple",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Main hallway",
+              "tracks": ["Food"]
+            },{
+              "name": "Able",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Main hallway",
+              "tracks": ["Food"]
+            },{
+              "name": "Bar",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Main hallway",
+              "tracks": ["Ionic"]
+            }
+          ]
+        },
+        {
+          "time": "4:00 pm",
+          "sessions": [
+            {
+              "name": "Apartment",
+              "timeStart": "4:00 pm",
+              "timeEnd": "9:00 pm",
+              "location": "Main hallway",
+              "tracks": ["Tooling"]
+            },{
+              "name": "Water",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Main hallway",
+              "tracks": ["Ionic"]
+            },{
+              "name": "Washington",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Main hallway",
+              "tracks": ["Ionic"]
+            }
+          ]
+        },
+        {
+          "time": "4:00 pm",
+          "sessions": [
+            {
+              "name": "Washroom",
+              "timeStart": "4:00 pm",
+              "timeEnd": "9:00 pm",
+              "location": "Main hallway",
+              "tracks": ["Tooling"]
+            },{
+              "name": "Bathroom",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Main hallway",
+              "tracks": ["Ionic"]
+            },{
+              "name": "Bedroom",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Main hallway",
+              "tracks": ["Ionic"]
+            },{
+              "name": "Bath",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Main hallway",
+              "tracks": ["Ionic"]
+            },{
+              "name": "Cookie",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Main hallway",
+              "tracks": ["Ionic"]
+            },{
+              "name": "Cook",
+              "timeStart": "8:00 am",
+              "timeEnd": "9:00 am",
+              "location": "Main hallway",
+              "tracks": ["Ionic"]
+            }
+          ]
+        }
+
+      ]
+    }
+  ],
+
+
+  "speakers": [
+    {
+      "name": "Emi Rosa",
+      "profilePic": "assets/img/speakers/bear.jpg",
+      "twitter": "ionicframework",
+      "about": "Burt is a Bear.",
+      "location": "Everywhere",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Isabella Anu",
+      "profilePic": "assets/img/speakers/cheetah.jpg",
+      "twitter": "ionicframework",
+      "about": "Charlie is a Cheetah.",
+      "location": "Everywhere",
+      "email": "charlie@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Edvin Amar",
+      "profilePic": "assets/img/speakers/duck.jpg",
+      "twitter": "ionicframework",
+      "about": "Donald is a Duck.",
+      "location": "Everywhere",
+      "email": "donald@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Jesse Anton",
+      "profilePic": "assets/img/speakers/eagle.jpg",
+      "twitter": "ionicframework",
+      "about": "Eva is an Eagle.",
+      "location": "Everywhere",
+      "email": "eva@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Rees Rafael",
+      "profilePic": "assets/img/speakers/elephant.jpg",
+      "twitter": "ionicframework",
+      "about": "Ellie is an Elephant.",
+      "location": "Everywhere",
+      "email": "ellie@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Keon Kim",
+      "profilePic": "assets/img/speakers/giraffe.jpg",
+      "twitter": "ionicframework",
+      "about": "Gino is a Giraffe.",
+      "location": "Everywhere",
+      "email": "gino@example.com",
+      "phone": "+1-541-754-3010"
+    }
+  ],
+
+
+  "map": [
+    {
+      "name": "Monona Terrace Convention Center",
+      "lat": 43.071584,
+      "lng": -89.380120,
+      "center": true
+    },
+    {
+      "name": "Ionic HQ",
+      "lat": 43.074395,
+      "lng": -89.381056
+    },
+    {
+      "name": "Afterparty - Brocach Irish Pub",
+      "lat": 43.07336,
+      "lng": -89.38335
+    }
+  ]
+
+}

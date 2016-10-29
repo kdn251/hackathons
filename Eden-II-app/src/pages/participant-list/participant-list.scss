@@ -1,0 +1,18 @@
+
+page-participant-list {
+
+  ion-card.participant ion-card-header .item {
+    padding: 12px;
+  }
+
+  ion-card.participant ion-card-content .list {
+    margin: 0;
+  }
+
+  ion-card.participant ion-card-header,
+  ion-card.participant ion-card-content,
+  ion-card.participant ion-card-content .list ion-item-content, {
+    padding: 0;
+  }
+
+}
